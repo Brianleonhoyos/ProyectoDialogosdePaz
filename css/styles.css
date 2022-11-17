@@ -477,9 +477,9 @@ header {
     }
 
     .modal-content {
-        margin: 43% auto !important;
+        /* margin: 43% auto !important; */
         padding: 12px !important;
-        max-width: 100% !important;
+        max-width: 90% !important;
     }
 
     .card-text {
