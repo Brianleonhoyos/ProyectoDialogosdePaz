@@ -120,8 +120,7 @@ a {
     margin: auto;
     transition: all 500ms ease;
     border-radius: 10px;
-    background: linear-gradient(0deg, rgba(222, 255, 241, 1) 0%, rgba(128, 255, 239, 1) 16%, rgba(79, 162, 184, 1) 56%, rgba(24, 54, 78, 1) 100%);
-
+    background: linear-gradient(215deg, #828c00 0, #6f8700 10%, #5c8100 20%, #477900 30%, #316f0a 40%, #166410 50%, #005914 60%, #004e16 70%, #004518 80%, #003e1a 90%, #00371c 100%);
     background-size: cover;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     position: relative;
